@@ -12,6 +12,7 @@ Hardware Components:
 
 Software Requirements:
 1. AutoCAD
-2. Android Studio (flutter)
-3. Arduino IDE
+2. EasyEDA
+3. Android Studio (flutter)
+4. Arduino IDE
 
