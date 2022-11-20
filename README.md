@@ -20,7 +20,7 @@ Software Requirements:
 3. Android Studio (flutter)
 4. Arduino IDE
 
-[Demo Video & User Manual] (https://www.youtube.com/watch?v=LB4F7s-LmH8&list=PPSV)
+![Demo Video & User Manual] (https://www.youtube.com/watch?v=LB4F7s-LmH8&list=PPSV)
 
 
 
