@@ -4,7 +4,7 @@ Develop contactless thermometer to meet the demand under the Covid-19 pandemic s
 
 The figure below is our project image (Smartphone-Based-Contactless-Thermometer):
 
-[](/images/thermometer.png)                ![](/images/finalproduct.png)
+![](/images/thermometer.png)                ![](/images/finalproduct.png)
 
 Hardware Components:
 1. Thermal Infrared sensor
