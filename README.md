@@ -8,17 +8,17 @@ The figure below is our project image (Smartphone-Based-Contactless-Thermometer)
 
 Hardware Components:
 * Thermal Infrared sensor
-2. Arduino Nano
-3. LED
-4. Ultrasonic Sensor
-5. OTG converter
-6. Wires
+* Arduino Nano
+* LED
+* Ultrasonic Sensor
+* OTG converter
+* Wires
 
 Software Requirements:
-1. AutoCAD
-2. EasyEDA
-3. Android Studio (flutter)
-4. Arduino IDE
+* AutoCAD
+* EasyEDA
+* Android Studio (flutter)
+* Arduino IDE
 
 [Demo Video & User Manual](https://www.youtube.com/watch?v=LB4F7s-LmH8&list=PPSV)
 
