@@ -7,7 +7,7 @@ The figure below is our project image (Smartphone-Based-Contactless-Thermometer)
 ![](./images/thermometer.png)                ![](/images/finalproduct.png)
 
 Hardware Components:
-1. Thermal Infrared sensor
+* Thermal Infrared sensor
 2. Arduino Nano
 3. LED
 4. Ultrasonic Sensor
