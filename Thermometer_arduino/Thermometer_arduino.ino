@@ -16,7 +16,7 @@ void setup(){                                      // Put your setup code here t
 
 void loop(){                                       // Put your main code here for repeatedly run program.
   while(Serial.available()>0){
-    uint8_t byteFromSerial = Serial.read();        // Allow input from console to program via "serial monitor".
+    uint8_t byteFromSerial = Serial.read();        // trying to read bytes from the serial input, concatenate them into a string, and print the string back to the serial monitor.
     uint8_t buff[100] = {byteFromSerial};
     String str = (char*)buff;
     Serial.print(str);
